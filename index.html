@@ -159,8 +159,8 @@
             <div class="lg:col-span-5 relative reveal stagger-2">
                 <div
                     class="relative z-20 transform lg:translate-x-12 hover:scale-[1.02] transition-transform duration-500">
-                    <img src="assets/screenshots.png" alt="Darzidost App UI"
-                        class="rounded-[40px] shadow-2xl border-[10px] border-[#1e293b] ring-1 ring-gray-200 bg-white">
+                    <img src="assets/home.png" alt="Darzidost App Home"
+                        class="rounded-[40px] shadow-2xl border-[10px] border-[#1e293b] ring-1 ring-gray-200 bg-white mx-auto max-w-[280px] md:max-w-xs">
                 </div>
                 <!-- Artistic Background Circle -->
                 <div
@@ -172,6 +172,61 @@
             </div>
         </div>
     </section>
+
+    <!-- App Showcase Gallery -->
+    <section class="py-24 bg-white overflow-hidden">
+        <div class="max-w-7xl mx-auto px-6">
+            <div class="text-center mb-16 reveal">
+                <h2 class="text-4xl md:text-5xl font-bold text-[#1e293b] mb-4">Inside Darzidost</h2>
+                <p class="text-lg text-gray-500 max-w-2xl mx-auto">See how we bridge the gap between traditional
+                    craftsmanship and modern technology.</p>
+            </div>
+
+            <div class="flex overflow-x-auto gap-8 pb-12 snap-x no-scrollbar">
+                <!-- Screen 1 -->
+                <div class="min-w-[260px] md:min-w-[300px] snap-center reveal stagger-1">
+                    <img src="assets/newCustomer.png" alt="Add New Customer"
+                        class="rounded-3xl shadow-lg border border-gray-100 hover:scale-[1.05] transition-transform duration-300">
+                    <p class="mt-4 text-center font-semibold text-gray-700">Client Onboarding</p>
+                </div>
+                <!-- Screen 2 -->
+                <div class="min-w-[260px] md:min-w-[300px] snap-center reveal stagger-2">
+                    <img src="assets/measurement.png" alt="Measurement Setup"
+                        class="rounded-3xl shadow-lg border border-gray-100 hover:scale-[1.05] transition-transform duration-300">
+                    <p class="mt-4 text-center font-semibold text-gray-700">Precision Measurement</p>
+                </div>
+                <!-- Screen 3 -->
+                <div class="min-w-[260px] md:min-w-[300px] snap-center reveal stagger-3">
+                    <img src="assets/new-order.png" alt="Create New Order"
+                        class="rounded-3xl shadow-lg border border-gray-100 hover:scale-[1.05] transition-transform duration-300">
+                    <p class="mt-4 text-center font-semibold text-gray-700">Order Management</p>
+                </div>
+                <!-- Screen 4 -->
+                <div class="min-w-[260px] md:min-w-[300px] snap-center reveal">
+                    <img src="assets/customer-detail.png" alt="Customer Profile"
+                        class="rounded-3xl shadow-lg border border-gray-100 hover:scale-[1.05] transition-transform duration-300">
+                    <p class="mt-4 text-center font-semibold text-gray-700">Detailed Profiles</p>
+                </div>
+                <!-- Screen 5 -->
+                <div class="min-w-[260px] md:min-w-[300px] snap-center reveal">
+                    <img src="assets/settings.png" alt="App Settings"
+                        class="rounded-3xl shadow-lg border border-gray-100 hover:scale-[1.05] transition-transform duration-300">
+                    <p class="mt-4 text-center font-semibold text-gray-700">Personalized Experience</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <style>
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
 
     <!-- Features -->
     <section id="features" class="bg-[#4f46e5] py-32 relative overflow-hidden">

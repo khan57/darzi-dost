@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
   "versionName": "1.2.0",
-  "apkUrl": "https://github.com/khan57/darzi-dost/releases/download/v1.2.0/app-release.apk",
+  "apkUrl": "https://github.com/khan57/darzi-dost/releases/download/v1.2.0/darzidost-v1.2.0.apk",
   "releaseNotes": [
     "📸 Added Offline-First Photo Support: Capture suit photos even without internet.",
     "🏬 Edit Shop Name: You can now update your shop name in Settings.",

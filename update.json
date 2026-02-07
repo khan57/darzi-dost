@@ -1,11 +1,13 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/khan57/darzi-dost/releases/download/v1.1.0/app-release.apk",
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/khan57/darzi-dost/releases/download/v1.2.0/app-release.apk",
   "releaseNotes": [
-    "Added offline photo support",
-    "Fixed sync issues",
-    "UI improvements"
+    "📸 Added Offline-First Photo Support: Capture suit photos even without internet.",
+    "🏬 Edit Shop Name: You can now update your shop name in Settings.",
+    "🎨 UI Modernization: New theme system with better colors and toast notifications.",
+    "🔄 Improved Sync: Enhanced customer code system and more reliable data sync.",
+    "🚀 In-App Updates: Future updates will now be much easier to install!"
   ],
   "minimumSupportedVersionCode": 1
 }

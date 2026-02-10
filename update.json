@@ -1,9 +1,11 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3.0",
-  "apkUrl": "https://github.com/khan57/darzi-dost/releases/download/v1.3.0/darzidost-v1.3.0.apk",
+  "versionCode": 5,
+  "versionName": "1.4.0",
+  "apkUrl": "https://github.com/khan57/darzi-dost/releases/download/v1.4.0/darzidost-v1.4.0.apk",
   "releaseNotes": [
-    "New release with important updates and improvements"
+    "Improved Edit Suit measurement UI",
+    "Fixed dashboard statistics incorrectly showing global counts",
+    "Premium design refinements"
   ],
   "minimumSupportedVersionCode": 4
 }

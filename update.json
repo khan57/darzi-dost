@@ -1,11 +1,11 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/khan57/darzi-dost/releases/download/v1.4.0/darzidost-v1.4.0.apk",
+  "versionCode": 6,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/khan57/darzi-dost/releases/download/v1.5.0/darzidost-v1.5.0.apk",
   "releaseNotes": [
-    "Improved Edit Suit measurement UI",
-    "Fixed dashboard statistics incorrectly showing global counts",
-    "Premium design refinements"
+    "Measurement inputs now support text (e.g., 10-1/2)",
+    "Database schema optimized for flexible measurements",
+    "Tailors can now enter any value in measurement screens"
   ],
-  "minimumSupportedVersionCode": 4
+  "minimumSupportedVersionCode": 5
 }

@@ -1,11 +1,12 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6.0",
-  "apkUrl": "https://github.com/khan57/darzi-dost/releases/download/v1.6.0/darzidost-v1.6.0.apk",
+  "versionCode": 8,
+  "versionName": "1.7.0",
+  "apkUrl": "https://github.com/khan57/darzi-dost/releases/download/v1.7.0/darzidost-v1.7.0.apk",
   "releaseNotes": [
-    "Added KeyboardAvoidingView to all form screens for better usability",
-    "Improved input focus and visibility when keyboard is open",
-    "Standardized layout across authentication and measurement forms"
+    "Integrated International Phone Number Support with country-specific validation",
+    "Redesigned PIN Authentication screens with premium UI and animations",
+    "Enhanced form layouts for better accessibility and focus management",
+    "Standardized design system across the entire application"
   ],
   "minimumSupportedVersionCode": 5
 }

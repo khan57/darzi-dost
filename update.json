@@ -1,11 +1,11 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5.0",
-  "apkUrl": "https://github.com/khan57/darzi-dost/releases/download/v1.5.0/darzidost-v1.5.0.apk",
+  "versionCode": 7,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/khan57/darzi-dost/releases/download/v1.6.0/darzidost-v1.6.0.apk",
   "releaseNotes": [
-    "Measurement inputs now support text (e.g., 10-1/2)",
-    "Database schema optimized for flexible measurements",
-    "Tailors can now enter any value in measurement screens"
+    "Added KeyboardAvoidingView to all form screens for better usability",
+    "Improved input focus and visibility when keyboard is open",
+    "Standardized layout across authentication and measurement forms"
   ],
   "minimumSupportedVersionCode": 5
 }

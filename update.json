@@ -1,12 +1,12 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7.0",
-  "apkUrl": "https://github.com/khan57/darzi-dost/releases/download/v1.7.0/darzidost-v1.7.0.apk",
+  "versionCode": 9,
+  "versionName": "1.7.1",
+  "apkUrl": "https://github.com/khan57/darzi-dost/releases/download/v1.7.1/darzidost-v1.7.1.apk",
   "releaseNotes": [
+    "Fixed Android build error caused by invalid launcher icon formats",
+    "Standardized asset compression for faster build times",
     "Integrated International Phone Number Support with country-specific validation",
-    "Redesigned PIN Authentication screens with premium UI and animations",
-    "Enhanced form layouts for better accessibility and focus management",
-    "Standardized design system across the entire application"
+    "Redesigned PIN Authentication screens with premium UI and animations"
   ],
   "minimumSupportedVersionCode": 5
 }

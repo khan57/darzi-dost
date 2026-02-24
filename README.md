@@ -2,7 +2,7 @@
 
 **DarziDost** is a premium, offline-first mobile application designed specifically for master tailors (artisans) to manage their entire workshop with digital precision. No more bulky paper registers — manage customers, measurements, and order progress from the palm of your hand.
 
-[![Download v1.7.0](https://img.shields.io/badge/Download-v1.7.0-indigo?style=for-the-badge&logo=android)](https://github.com/khan57/darzi-dost/releases/download/v1.7.0/darzidost-v1.7.0.apk)
+[![Download v1.7.1](https://img.shields.io/badge/Download-v1.7.1-indigo?style=for-the-badge&logo=android)](https://github.com/khan57/darzi-dost/releases/download/v1.7.1/darzidost-v1.7.1.apk)
 
 ---
 
@@ -25,7 +25,7 @@ Manage your production workflow from cutting to delivery.
 - **Advance/Total Tracking**: Keep a clear log of payments for every suit.
 - **Due Dates**: Never miss a deadline with organized order sorting.
 
-### 🌍 Global Support (v1.7.0)
+### 🌍 Global Support (v1.7.1)
 - **International Phone Input**: Support for tailors and customers worldwide with country-specific validation and flag selection.
 - **Multilingual UI**: Native support for **English** and **Urdu (اردو)**.
 
